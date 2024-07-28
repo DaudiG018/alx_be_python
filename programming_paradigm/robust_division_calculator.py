@@ -1,6 +1,6 @@
 def safe_divide(numerator, denominator):
     try:
-        # Attempt to convert arguments to floats
+        # Attempt to convert arguments to float
         num = float(numerator)
         denom = float(denominator)
         
